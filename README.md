@@ -4,4 +4,5 @@ In this assignment, I will download the Data Expo 2009 data from the Harvard Dat
 2. airports (with the data in airports.csv)
 3. carriers (with the data in carriers.csv)
 4. planes (with the data in plane-data.csv)
+
 Then I will consrtuct a database and replicate the queries in the practice quiz in both Python and R.
